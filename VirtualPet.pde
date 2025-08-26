@@ -4,14 +4,6 @@ void setup(){
 }
 void draw()
 //body
- //oent work
-{
-  translate(180,220);
-rotate(radians(45));
-rect(180,220,50,15);
-
-}
-
 
 triangle(150,270,130,300,170,300);
 triangle(150,285,140,300,160,300);
